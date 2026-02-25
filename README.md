@@ -153,8 +153,8 @@ Video Courses
 
 ### Development by 
 
-Developer / Author: [Unity-Billal-mesloub](https://github.com/[Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub?tab=repositories)/)  
-Company: [Unity-Billal-mesloub](https://github.com/[Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub?tab=repositories)/)
+Developer / Author: [Unity-Billal-mesloub](https://github.com/[Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub/)  
+Company: [Unity-Billal-mesloub](https://github.com/[Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub/)
 
 
 ### License 
